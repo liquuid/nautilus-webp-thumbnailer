@@ -1,2 +1,11 @@
 # nautilus-webp-thumbnailer
-script to create thumbnails from webp images on nautilus
+
+Install webp-tools on your *nix distro
+
+```cp webp.thumbnailer /usr/share/thumbnailers/```
+
+Restart Nautilus
+
+*** job done ***
+
+
